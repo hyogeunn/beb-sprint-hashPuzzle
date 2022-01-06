@@ -5,8 +5,8 @@
 '111';
 '1111';
 '121111341113411';
-'aaawwdqwddwqdwqsaaaaasadwadaa';
-'sddgewgewgew';
+'aaawwdqwfewfewddwqdwqsaaaaasadwadaa';
+'fewf';
 =======
 
 @@@@채굴 대 성공@@@@

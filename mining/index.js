@@ -6,7 +6,7 @@
 '1111';
 '121111341113411';
 'aaawwdqwddwqdwqsaaaaasadwadaa';
-'sdd';
+'sddgewgewgew';
 =======
 
 @@@@채굴 대 성공@@@@

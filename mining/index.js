@@ -7,7 +7,7 @@
 '1211d11341113411';
 'aaawwdqwfewfewddwaqdwqsaawaaasadwadaa';
 'fewdfefdfsfdwfdeffewfewfdqdff';
-'fewdddfefdsddfddwafdddeffdeddwfsdewdqdf';
+'fewdddfefdsddfddwafdddeffdeddwfsfdewdqdf';
 =======
 
 @@@@채굴 대 성공@@@@
